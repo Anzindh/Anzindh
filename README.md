@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻<a href="https://anzindh.github.io/Personal-Website/](https://anzindh.github.io/Personal-Website/">CLick here to see my personal website</a>
+- 👨‍💻<a href="https://anzindh.github.io/Personal-Website/">CLick here to see my personal website</a>
 
 - 💬 Ask me about **Python, HTML, CSS, JS, React, Next**
 
